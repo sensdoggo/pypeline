@@ -1,5 +1,5 @@
 [project]
-name = "pypeline-common"
+name = "common"
 version = "0.1.0"
 description = "common types and utilities to be shared across pypeline packages"
 readme = "README.md"

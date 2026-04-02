@@ -1,7 +1,7 @@
 [project]
-name = "pypeline-common"
+name = "core"
 version = "0.1.0"
-description = "common types and utilities to be shared across pypeline packages"
+description = "core types, base classes, utility functions for pypeline"
 readme = "README.md"
 license = 'GPL-3.0-or-later'
 license-files = ["LICEN[CS]E*"]
