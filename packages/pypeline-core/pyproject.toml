@@ -1,0 +1,11 @@
+[project]
+name = "pypeline-common"
+version = "0.1.0"
+description = "common types and utilities to be shared across pypeline packages"
+readme = "README.md"
+license = 'GPL-3.0-or-later'
+license-files = ["LICEN[CS]E*"]
+requires-python = ">=3.14"
+dependencies = [
+
+]
